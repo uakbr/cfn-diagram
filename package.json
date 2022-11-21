@@ -25,7 +25,7 @@
     "fast-xml-parser": "^3.20.3",
     "inquirer": "^8.2.0",
     "jdom": "^3.1.11",
-    "jsdom": "^16.4.0",
+    "jsdom": "^20.0.3",
     "mxgraph": "^4.1.1",
     "open": "^8.4.0",
     "open-in-editor": "^2.2.0",
